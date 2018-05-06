@@ -83,7 +83,7 @@ elements based on values defined in a theme.
 <Box color='tomato' />
 
 // color: #333 (theme.colors.gray[0])
-<Box color='grays.0' />
+<Box color='gray.0' />
 
 // background color
 <Box bg='tomato' />
